@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hi there, I'm Carlos Meneses 👋</h1>
     <h3 align="center">Electronics Engineer passionate about Programming</h3>
-  https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
 </div>
 
 ## 👉 About me
