@@ -1,16 +1,20 @@
-## Hi there, I'm Carlos Meneses 👋
+<div id="header" align="center">
+    <h1 align="center">Hi there, I'm Carlos Meneses 👋</h1>
+    <h3 align="center">Electronics Engineer passionate about Programming</h3>
+  https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white
+</div>
 
-<!--
-**CarlosMeneses1/CarlosMeneses1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👉 About me
+- ⚡ Electronics Engineer with over 3 years of experience in Process Improvement
+- 👨🏽‍💻 Learning the art of programming
+- 🔗 Looking to combine the best of Engineering and Programming
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Experience in
+<div align="left">
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
+</div>
