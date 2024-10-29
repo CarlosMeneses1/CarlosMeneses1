@@ -3,7 +3,7 @@
     <h3 align="center">Electronics Engineer passionate about Programming</h3>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/carlos-menesess](https://www.linkedin.com/in/carlos-menesess/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/carlos-menesess/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/carlos_menesess_/)
 
 ## 👉 About me
