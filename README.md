@@ -3,7 +3,7 @@
     <h3 align="center">Electronics Engineer passionate about Programming</h3>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/carlos-menesess/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-menesess/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/carlos_menesess_/)
 
 ## 👉 About me
@@ -21,6 +21,5 @@
 <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
-
 ## 📈 My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMeneses1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMeneses1&layout=compact&theme=dark)
