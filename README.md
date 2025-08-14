@@ -7,8 +7,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/carlos_menesess_/)
 
 ## 👉 About me
-- ⚡ Electronics Engineer with over 3 years of experience in Process Improvement
-- 👨🏽‍💻 Learning the art of programming with the best **Harvard CS50**
+- ⚡ Electronics Engineer with over 4 years of experience in Process Improvement
+- 👨🏽‍💻 Learning the art of programming and cybersecurity
 - 🔗 Looking to combine the best of Engineering and Programming
 
 ## 🧠 Experience in
